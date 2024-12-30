@@ -7,7 +7,7 @@ An excerpt on all projects I have worked on. Currently located in separate repos
 -->
 
 ## College
-* NOTE: Contact me to see this repository, it is currently privated to avoid academic integrity violations via plagiarism. Will be public when I graduate.
+* NOTE: Contact me to see this repository, it is currently privated until I graduate to avoid academic integrity violations via plagiarism.
 * Languages: C, C++, Python, Javascript (React), SQL
 * Contains all MPs/Projects I have worked on in college.
 * My work covers topics like Databases, Data Processing (AI and Real-Time Systems), Operating Systems, Embedded Systems, and handling FPGAs.
